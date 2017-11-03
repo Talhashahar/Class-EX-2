@@ -1,0 +1,25 @@
+*{margin: 0px}
+.picture_style{
+    height: 100%;
+    position: relative;
+    width: 100%;
+    padding: 0px;
+}
+
+header{
+    height: 62px;
+    width: 1280px;
+    background-color: #1b1e26;
+}
+
+main{
+    height: 1202px;
+    width: 1280px;
+    background: url(../images/main.jpeg);
+}
+
+footer{
+    height: 226px;
+    width: 1280px;
+    background: url(../images/footer.jpeg);
+}
